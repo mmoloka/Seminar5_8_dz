@@ -1,0 +1,6 @@
+id;par_id;name;surname;bd;tel
+1;1;Egor;Ivanov;01.08.2022;89152223344
+2;1;Misha;Ivanov;02.08.2022;89483332255
+3;3;Danila;Petrov;05.05.2021;89317789965
+4;4;Sergey;Sidorov;25.03.2022;89015698712
+5;4;Dariya;Sidorova;13.08.2020;89163455432

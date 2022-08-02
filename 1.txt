@@ -1,0 +1,6 @@
+id;name;surname;tel
+1;Ivan;Ivanov;89011234567
+2;Semen;Efremov;89037654321
+3;Petr;Petrov;89161235476
+4;Sidor;Sidorov;89259876543
+5;Vasiliy;Karpov;89266549871
