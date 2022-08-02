@@ -1,0 +1,11 @@
+tel;name;surname
+89011234567;Ivan;Ivanov
+89037654321;Semen;Efremov
+89161235476;Petr;Petrov
+89259876543;Sidor;Sidorov
+89266549871;Vasiliy;Karpov
+89152223344;Egor;Ivanov
+89483332255;Misha;Ivanov
+89317789965;Danila;Petrov
+89015698712;Sergey;Sidorov
+89163455432;Dariya;Sidorova
